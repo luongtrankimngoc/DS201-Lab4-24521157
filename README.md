@@ -1,4 +1,4 @@
-# DS201 · Lab 4 · Dịch máy Anh–Việt
+# DS201 - Lab 4 - ENCODER–DECODER VÀ ATTENTION CHO DỊCH MÁY*
 
 **MSSV:** 24521157
 
